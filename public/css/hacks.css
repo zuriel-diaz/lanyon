@@ -23,3 +23,7 @@ p.insp-quote .author{
 	display: block;
 	text-align: right;
 }
+
+/* About page */
+.description{text-align: justify;}
+div#about-me img{margin: 0 auto;padding-bottom: 4%;}
