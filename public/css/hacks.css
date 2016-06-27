@@ -1,0 +1,25 @@
+/* Avatar */
+.size-100x100{
+	width: 145px !important;
+	height: 120px !important;
+}
+
+#me{
+	border-radius: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    border: 2px solid #4c4c4c;
+}
+
+p.insp-quote{
+	margin-top: 5%;
+    text-align: center !important;
+    /* font-weight: bold; */
+    font-size: 0.85em;
+}   
+
+p.insp-quote .author{
+	display: block;
+	text-align: right;
+}
