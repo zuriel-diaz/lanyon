@@ -5,9 +5,9 @@ permalink:           pretty
 #relative_permalinks: false
 
 # Setup
-title:               ZurielDiaz
-tagline:             'Problem solver.'
-description:         'Hacker lab.'
+title:               Zuriel Diaz
+tagline:             'Full Stack Web Development | Artificial Intelligence'
+description:         'Hacker laboratory.'
 url:                 https://zuriel-diaz.github.io
 baseurl:             ''
 paginate:            5
@@ -17,6 +17,7 @@ author:
   name:              Zuriel Diaz
   url:               https://zuriel-diaz.github.io
   email:             zurieldiazd@gmail.com
+  twitter:           ZurieLeader
 
 # Custom vars
 version:             1.0.0
