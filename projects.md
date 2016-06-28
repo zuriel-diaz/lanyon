@@ -3,28 +3,22 @@ layout: page
 title: Projects
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### Ezetera
+<p class="description">My major contributions to this project has been the migration from an in-house infrastructure to a cloud hybrid paradigm (AWS-in house). Also integrations between our e-commerce platform and payment methods, shipping carriers. Build scripts to automate processes like large datasets migration, development environment automated, and support on project managment between in-house team and e-commerce provider.</p>
+<p><a href="https://ezetera.com">https://ezetera.com</a></p>
+---
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### Compratulibro
+<p class="description">I have contributed on features development for e-commerce platform, and infrastructure topics like: server hardening, deployments.</p>
+<p><a href="https://compratulibro.com">https://compratulibro.com</a></p>
+---
 
-There are currently two themes built on Poole:
+### Open Intelligence
+<p class="description">My major contributions to this project has been the backend migration, from MeteorJS to Ruby on Rails. Also I have collaborated as Software Engineer on features development, also I contributed my experience as Agile Coach, and CRM platform development.</p>
+<p><a href="https://opi.la">https://opi.la</a></p>
+---
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+### Speedy Movil/Telcel
+<p class="description">My major contribution has been features development on transactional core , and also the support on releases deployment. I did contributed as integrations engineer between Telcel and enterprises that sell content through TELECOM channels (e.g. SMS, ...). Also I have contributed with features development on content platform (LATAM).</p>
+<p><a href="http://www.telcel.com/">http://www.telcel.com/</a></p>
+<p><a href="http://www.claro.com/">http://www.claro.com/</a></p>
