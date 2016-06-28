@@ -26,5 +26,5 @@ p.insp-quote .author{
 
 /* About page */
 .description{text-align: justify;}
-div#about-me img{margin: 0 auto;padding-bottom: 4%;}
+div#about-me img{margin: 0 auto;margin-bottom: 4%;}
 span.highlight-text{font-weight: bold;}
