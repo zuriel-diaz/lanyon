@@ -9,9 +9,9 @@ title:               Zuriel Diaz
 tagline:             'Full Stack Web Development'
 description:         'Full Stack Web Development.'
 # Local dev environment
-url:                 http://127.0.0.1:4000
+#url:                 http://127.0.0.1:4000
 # Production environment
-#url:                 https://zuriel-diaz.github.io
+url:                 https://zuriel-diaz.github.io
 baseurl:             ''
 paginate:            2
 
