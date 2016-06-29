@@ -17,14 +17,14 @@ paginate:            2
 
 # About/contact
 author:
-  name:              Zuriel Diaz
-  url:               https://zuriel-diaz.github.io
-  email:             zurieldiazd@gmail.com
-  twitter:           https://twitter.com/@ZurieLeader
-  google_plus:		 https://plus.google.com/105288612897908090179?rel=author
-  github:			 https://github.com/zuriel-diaz
-  stackoverflow:	 http://stackoverflow.com/users/6521429/zurieldiaz
-  linkedin:			 https://www.linkedin.com/in/zurieleader
+  name:               Zuriel Diaz
+  url:                https://zuriel-diaz.github.io
+  email:              zurieldiazd@gmail.com
+  twitter:            https://twitter.com/@ZurieLeader
+  google_plus:        https://plus.google.com/105288612897908090179?rel=author
+  github:             https://github.com/zuriel-diaz
+  stackoverflow:      http://stackoverflow.com/users/6521429/zurieldiaz
+  linkedin:           https://www.linkedin.com/in/zurieleader
 
 # Custom vars
 version:             1.0.0
